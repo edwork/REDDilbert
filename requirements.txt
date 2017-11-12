@@ -1,0 +1,4 @@
+## REDDilbert Requirements
+pyyaml
+bs4
+praw
